@@ -1,6 +1,7 @@
+//Include Morse.h Header File
 #include "Morse.h"
 
-//13. Pin initialize
+//Initialize 13.Pin 
 Morse morse(13);
 
 void setup() {
